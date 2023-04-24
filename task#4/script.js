@@ -10,7 +10,7 @@ xxxxx */
 const numberOfRows = 20;
 const symbol = 'x';
 
-OutputSymbolSlide(numberOfRows, symbol)
+OutputSymbolSlide(numberOfRows, symbol);
 
 function OutputSymbolSlide(NumberOfRows, Symbol) {
     let outputString = '';
